@@ -1,0 +1,5 @@
+# Robots.txt for Balaji Plumber Services
+User-agent: *
+Allow: /
+
+Sitemap: https://balaji-plumber-services.vercel.app/sitemap.xml
